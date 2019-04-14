@@ -4,7 +4,7 @@ jest.mock and jest.doMock examples.
 
 ### Getting Started
 
-Clone this repo and go to the directory `jest-example`. Then run `npm install`.
+Clone this repo and go to the directory `jest-examples`. Then run `npm install`.
 
 ### `npm test <path>`
 Run all the tests at `<path>`. <br>
